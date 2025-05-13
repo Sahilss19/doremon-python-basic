@@ -151,7 +151,6 @@ class doraemon:
         self.mouth()
         self.beard()
 
-
 if __name__ == '__main__':
     d = doraemon()
     d.start()
